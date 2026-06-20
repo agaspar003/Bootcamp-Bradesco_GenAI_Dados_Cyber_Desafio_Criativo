@@ -21,7 +21,7 @@ Aponte evidências nos dados fornecidos, usando exemplos curtos de comentários.
 Sugira ações práticas para a equipe de experiência do cliente e para o time responsável pelos canais digitais.
 Formato da resposta: Entregue um resumo executivo com até 5 linhas, uma tabela resumida com tema, sentimento, evidência e ação sugerida, além de uma lista final com as 3 prioridades mais importantes.
 
-Restrições:
+Restrições: \
 Use apenas os dados fornecidos. \
 Não invente números, causas ou conclusões. \
 Não exponha dados pessoais ou sensíveis. \
