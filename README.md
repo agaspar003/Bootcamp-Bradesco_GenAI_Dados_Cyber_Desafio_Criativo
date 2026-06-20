@@ -22,9 +22,8 @@ Sugira ações práticas para a equipe de experiência do cliente e para o time 
 Formato da resposta: Entregue um resumo executivo com até 5 linhas, uma tabela resumida com tema, sentimento, evidência e ação sugerida, além de uma lista final com as 3 prioridades mais importantes.
 
 Restrições:
-
-Use apenas os dados fornecidos.
-Não invente números, causas ou conclusões.
-Não exponha dados pessoais ou sensíveis.
-Informe limitações quando os dados não forem suficientes.
-Use linguagem simples, direta e voltada para tomada de decisão.
+Use apenas os dados fornecidos. \
+Não invente números, causas ou conclusões. \
+Não exponha dados pessoais ou sensíveis. \
+Informe limitações quando os dados não forem suficientes. \
+Use linguagem simples, direta e voltada para facilitar a tomada de decisão e definição das ações.
